@@ -17,8 +17,4 @@ while True:
         print(f"Currently the temperature in your city is {temp}°C\n")
     
     else:
-        print("Sorry, something went wrong. Make sure you type your city correctly.")
-    
-
-
-print()
+        print("Sorry, something went wrong. Make sPure you type your city correctly.")
