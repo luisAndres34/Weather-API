@@ -1,5 +1,3 @@
-Here is a short, professional README tailored for your project. You can copy and paste this directly into a `README.md` file.
-
 ***
 
 # Temperature Checker
